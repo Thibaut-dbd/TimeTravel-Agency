@@ -102,7 +102,7 @@ pnpm dev
 ```
 
 L'application sera accessible sur `http://localhost:3000`.
-URL de la webapp déployée : 
+URL de la webapp déployée : https://thibaut-dbd.github.io/TimeTravel-Agency/
 
 ---
 
