@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: 'export', // Indique à Next.js de créer un site statique
   images: {
-    unoptimized: true,
+    unoptimized: true, // Obligatoire pour GitHub Pages
   },
-}
+  // Remplace 'TimeTravel-Agency' par le nom exact de ton projet GitHub
+  basePath: '/TimeTravel-Agency', 
+};
 
-export default nextConfig
+export default nextConfig;
