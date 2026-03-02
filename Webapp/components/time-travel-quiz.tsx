@@ -43,21 +43,21 @@ const results: Record<
     subtitle: "Belle \u00C9poque",
     description:
       "Your ideal era is the golden age of Paris! You will thrive among the grand exhibitions, elegant salons, and the shimmering debut of the Eiffel Tower. Prepare for an experience of unmatched cultural sophistication.",
-    image: "/images/paris.jpg",
+    image: "/TimeTravel-Agency/images/paris.jpg",
   },
   cretaceous: {
     title: "Cretaceous Period",
     subtitle: "-65M Years",
     description:
       "You are a born explorer! The prehistoric world awaits with its awe-inspiring landscapes and magnificent creatures. Our secure observation pods will give you a front-row seat to nature's greatest show.",
-    image: "/images/cretaceous.jpg",
+    image: "/TimeTravel-Agency/images/cretaceous.jpg",
   },
   florence: {
     title: "Florence 1504",
     subtitle: "Renaissance",
     description:
       "Your soul belongs in the Renaissance! Walk alongside the greatest artistic minds in history, witness masterpieces being born, and immerse yourself in the creative revolution that shaped Western civilization.",
-    image: "/images/florence.jpg",
+    image: "/TimeTravel-Agency/images/florence.jpg",
   },
 }
 

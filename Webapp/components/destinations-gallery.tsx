@@ -11,7 +11,7 @@ const destinations = [
     id: "paris-1889",
     title: "Paris 1889",
     subtitle: "Belle \u00C9poque",
-    image: "/images/paris.jpg",
+    image: "/TimeTravel-Agency/images/paris.jpg",
     date: "1889 AD",
     location: "Paris, France",
     description:
@@ -22,7 +22,7 @@ const destinations = [
     id: "cretaceous",
     title: "Cretaceous Period",
     subtitle: "-65M Years",
-    image: "/images/cretaceous.jpg",
+    image: "/TimeTravel-Agency/images/cretaceous.jpg",
     date: "-65,000,000",
     location: "Prehistoric Earth",
     description:
@@ -33,7 +33,7 @@ const destinations = [
     id: "florence-1504",
     title: "Florence 1504",
     subtitle: "Renaissance",
-    image: "/images/florence.jpg",
+    image: "/TimeTravel-Agency/images/florence.jpg",
     date: "1504 AD",
     location: "Florence, Italy",
     description:

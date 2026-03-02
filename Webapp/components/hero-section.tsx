@@ -11,7 +11,7 @@ export function HeroSection() {
       <div className="absolute inset-0 z-0">
         {/* Replace this Image with a <video> element for production */}
         <Image
-          src="/images/paris.jpg"
+          src="/TimeTravel-Agency/images/paris.jpg"
           alt="Paris 1889 background"
           fill
           priority
