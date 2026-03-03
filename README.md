@@ -126,10 +126,12 @@ Webapp/
       ui/                      # Composants shadcn/ui reutilisables
     public/
       images/                  # Visuels des destinations
+    styles/
+        globals                # css globaux
 ```
 
 ---
 
 ## Credits
 **Projet pedagogique Supervise IA - M1 CSINFRA**
-CORRIVAUD Lylian, Thibaut DABBADIE, Gregory MISCILE 
+CORRIVAUD Lylian, Thibaut DABBADIE, Gregory MYSCILE 
