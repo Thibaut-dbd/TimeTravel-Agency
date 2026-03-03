@@ -134,4 +134,4 @@ Webapp/
 
 ## Credits
 **Projet pedagogique Supervise IA - M1 CSINFRA**
-CORRIVAUD Lylian, Thibaut DABBADIE, Gregory MYSCILE 
+CORRIVAUD Lylian, Thibaut DABBADIE, Gregory MYSCILE.
